@@ -1,5 +1,5 @@
 # physician-location
-Can Malpractice Pressure Compel a Physician to Relocate? 
+Can Malpractice Pressure Compel a Physician to Relocate? Ellyson and Robertson (2017)
 
 Data Sets
 fips_state.dta			Specifies state, postal code, and fipscode
