@@ -3,6 +3,8 @@ Can Malpractice Pressure Compel a Physician to Relocate? Ellyson and Robertson (
 
 Existing literature considers the effect of changes in malpractice pressure by focusing on physician supply, and concludes that changes in tort laws have limited but some impact on physician movement. Using a panel dataset which follows a random sample of 28,227 family medicine physicians in the United States from 1992–2007, this paper evaluates whether changes in malpractice premiums impact a physician's decision to relocate their practice. Our findings suggest that even large premium growth has no impact on the physician relocation decision. Generally, these results suggest that family medicine physicians do not use relocation as a strategy to avoid malpractice pressure. However, some physicians are more inclined to relocate than others. Results indicate that group and hospital practice physicians are more likely to move to another state when premiums are high compared to solo and partnership practice physicians.
 
+Publication available at https://www.sciencedirect.com/science/article/pii/S0144818818301790. 
+
 List of Data Sets
 
 -fips_state.dta			Specifies state, postal code, and fipscode
